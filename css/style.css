@@ -61,7 +61,7 @@ img
 {
     align-items: center;
 }
-/* .btn-1
+.btn-1
 {
     background-color: var(--main-color);
     padding: 15px 40px;
@@ -77,8 +77,10 @@ img
 {
     color: var(--white);
     background-color: rgb(158, 135, 5);
-} */
-
+}
+.hero .hero-text .typed-text {
+    display: none;
+}
 .btn-2
 {
     background-color: var(--white);
